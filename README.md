@@ -1,2 +1,3 @@
-# Certifications
-A public repository containing my technical and analytical certifications, including DataCamp course completions and diplomas.
+# 🎓 Certifications
+
+This repository contains my technical and analytical certifications, from DataCamp
